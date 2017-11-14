@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <alice.h>
 #include <bob.h>
 //TODO: use a better random generator
 int random_int(int max)
